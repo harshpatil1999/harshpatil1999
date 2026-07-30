@@ -17,7 +17,7 @@ Building AI powered full stack systems.
 - 🏗️ Building production-grade projects
 - 🔥 Interested in **Backend Development, Cloud Architecture and DevOps**
 - ⚡ Exploring **Docker, AWS, Redis and Kafka**
-- 🎯 Goal: Become a highly skilled full stack developer specializing in scalable systems,DevOps and Cloud
+- 🎯 Goal: Become a highly skilled full stack developer specializing in scalable systems, DevOps and Cloud
 
 ---
 
@@ -202,7 +202,7 @@ React • Node.js • MongoDB • Google OAuth • Gemini API • Render
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshpatil1999&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?username=harshpatil1999&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
