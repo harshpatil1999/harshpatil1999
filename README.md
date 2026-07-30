@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Harsh Patil
 
-### Full Stack Developer | MERN Stack | DevOps and Cloud
+### Full Stack Developer | MERN Stack | NextJS | DevOps and Cloud
 
 Building AI powered full stack systems.
 
