@@ -202,7 +202,7 @@ React • Node.js • MongoDB • Google OAuth • Gemini API • Render
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=harshpatil1999&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshpatil1999&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 ---
