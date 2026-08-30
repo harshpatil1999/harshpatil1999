@@ -145,7 +145,7 @@ Building AI powered full stack systems.
 
 ---
 
-# 📌 Featured Projects
+# 📌 Major Projects
 
 ## 🤖 PolyForge - Multi Agent System
 
